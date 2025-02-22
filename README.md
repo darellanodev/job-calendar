@@ -11,3 +11,9 @@ This is an application to manage workers' shifts for a year, developed to practi
 ## Idea proposal
 
 ![idea proposal](https://raw.githubusercontent.com/darellanodev/job-calendar/refs/heads/main/img_github_readme/idea_proposal.png)
+
+## Wireframe
+
+### Mobile weekly calendar interface design in English and Spanish
+
+![mobile weekly](https://raw.githubusercontent.com/darellanodev/job-calendar/refs/heads/main/img_github_readme/mobile_weekly.png)
